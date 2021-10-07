@@ -1,6 +1,12 @@
-h1 { color:red; }
-h2 { color:green; }
-h3 { color:blueviolet}
+h1 { color:#1A2C42; }
+h2 { color:#00458B; }
+h3 { color:#373A36}
+p {
+  font-size: 20px;
+}
+li {
+  font-size: 20px;
+}
 table, th, td {
     border: 1px solid black;
   }
