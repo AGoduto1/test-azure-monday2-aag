@@ -13,8 +13,18 @@ body {
 p {
   font-size: 20px;
 }
+progress{
+  width:95%;
+  font-size: 30px;
+  margin-left: 30px;
+  margin-right: 30px;
+}
 li {
   font-size: 20px;
+  text-align: center;
+}
+ol{
+  text-align:center
 }
 table, th, td {
     border: 1px solid black;
@@ -28,3 +38,8 @@ table, th, td {
     -webkit-columns: 2;
     -moz-columns: 2;
   }
+details{
+  color:#1A2C42;
+  font-size: 20px;
+  text-align: center;
+}
